@@ -1,8 +1,44 @@
-# React + Vite
+# Project Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Brief description of your project.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Development](#development)
+- [Building for Production](#building-for-production)
+- [Testing](#testing)
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js (version 18.7.1 or higher)
+- npm (version 9.6.6 or higher)
+
+## Installation
+
+1. Clone the repository:
+   https://github.com/vibhav005/dashboard
+
+2. Navigate to the project directory :
+   `cd dashboard`
+
+3. Install dependencies : `npm install`
+
+## Usage
+
+To start the development server :`npm run dev`
+
+Then open http://localhost:5173 to view it in the browser.
+
+## Building for Production
+
+To create a production build : `npm run build`
+This will generate a `dist` folder with the production-ready files.
+
+## Testing
+
+To run tests : `npm run tes`
